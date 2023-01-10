@@ -12,10 +12,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Segunda Tela"
+        android:text="@string/segunda_tela"
         android:textSize="32sp"
         android:textStyle="bold"
-        android:textColor="@color/white"/>
+        android:textColor="@color/black"/>
 
     <ImageView
         android:id="@+id/icVoltar"
@@ -24,7 +24,7 @@
         android:src="@drawable/ic_voltar"
         android:layout_marginTop="10dp"
 
-        />
+        android:contentDescription="@string/seta" />
 
 </LinearLayout>
 

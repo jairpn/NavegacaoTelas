@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Navegacao Telas</string>
+    <string name="segunda_tela">Segunda Tela</string>
+    <string name="seta">SETA</string>
 </resources>
